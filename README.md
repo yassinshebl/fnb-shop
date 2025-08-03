@@ -1,6 +1,3 @@
-Here’s your adjusted and polished `README.md` file for **The Cairo Brunch Corner** website. I’ve improved formatting, fixed minor markdown issues, and added enhancements like a **Live Demo** section placeholder and cleaner visuals.
-
-````markdown
 # 🥐 The Cairo Brunch Corner
 
 Welcome to the official GitHub repository for **The Cairo Brunch Corner** — a static website that reflects our love for brunch culture in the heart of Cairo. This site showcases our mission, our unique products, and provides an easy way for customers to connect with us.
@@ -86,24 +83,14 @@ See the [LICENSE](./LICENSE) file for more information.
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
-Consider adding some screenshots here:
-
-```
 ![Homepage Screenshot](./assets/images/homepage-preview.png)
 ![Products Page Screenshot](./assets/images/products-preview.png)
-```
+![About Us Page Screenshot](./assets/images/aboutus-preview.png)
+![contact Page Screenshot](./assets/images/contact-preview.png)
+
 
 ---
 
 > Created with 💛 in Cairo
-
-```
-
-Let me know if you'd like me to:
-- Add a deployment guide (e.g., GitHub Pages or Netlify)
-- Include badges (e.g., license, build status)
-- Write a `.gitignore` file  
-- Or even generate placeholder screenshots.
-```
