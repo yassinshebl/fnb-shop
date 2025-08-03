@@ -9,7 +9,7 @@ We believe that every product has a story, and we’re proud to support producer
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Home Page**: A welcoming landing page that introduces our brand and offerings.
 - **Products Page**: A curated gallery of our high-quality brunch items.
@@ -19,7 +19,7 @@ We believe that every product has a story, and we’re proud to support producer
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 .
@@ -37,7 +37,7 @@ We believe that every product has a story, and we’re proud to support producer
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **HTML5**: Semantic and accessible structure
 * **CSS3**: Clean, responsive styling with custom palettes
@@ -46,19 +46,19 @@ We believe that every product has a story, and we’re proud to support producer
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the project locally:
 
 ```bash
-git clone https://github.com/yassinshebl/fnb-shop
+git clone https://github.com/yassinshebl/the_cairo_brunch_corner_example_website
 ```
 
 Then, open `index.html` file in your browser — no server setup required.
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 ### Home Page:
 ![Homepage Screenshot](./assets/images/homepage-preview.png)
 ### Products Page:
